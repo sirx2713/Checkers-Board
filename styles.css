@@ -1,3 +1,4 @@
+/*
 #first{
     display: inline-block;
 }
@@ -84,6 +85,23 @@
     background-color: #ECDAB9;
 }
 #second > #darkBrown8{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+ */
+.container{
+    width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.container > .white{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+.container > .black{
     height: 100px;
     width: 100px;
     background-color: #AE8A68;
