@@ -1,0 +1,90 @@
+#first{
+    display: inline-block;
+}
+#second{
+    display: block;
+}
+#top{
+    display: flex;
+}
+#top > #brown1{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#top > #darkBrown1{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+#top > #brown2{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#top > #darkBrown2{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+#top > #brown3{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#top > #darkBrown3{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+#top > #brown4{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#top > #darkBrown4{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+
+#second > #brown5{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#second > #darkBrown5{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+#second > #brown6{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#second > #darkBrown6{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+#second > #brown7{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#second > #darkBrown7{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
+#second > #brown8{
+    height: 100px;
+    width: 100px;
+    background-color: #ECDAB9;
+}
+#second > #darkBrown8{
+    height: 100px;
+    width: 100px;
+    background-color: #AE8A68;
+}
